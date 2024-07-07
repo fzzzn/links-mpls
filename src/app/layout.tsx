@@ -7,8 +7,8 @@ const cabinetGrotesk = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'Links - fzzzn.',
-  description: 'Links - fzzzn.',
+  title: 'Links - MPLS SMKN 2 Depok Sleman 2024',
+  description: 'Links - MPLS SMKN 2 Depok Sleman 2024',
 };
 
 export default function RootLayout({
