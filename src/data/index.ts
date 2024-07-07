@@ -1,46 +1,35 @@
 import { Data } from '@/typings';
 
 const data: Data = {
-  name: 'Rizky Fauzan Hanif',
-  avatar: 'https://avatars.githubusercontent.com/u/80439646',
-  description: 'Tech enthusiast',
+  name: 'MPLS SMKN 2 Depok Sleman 2024',
+  avatar: 'https://humtik.my.id/wp-content/uploads/2024/06/logo_humtik_1.webp',
+  description: 'Knowledge is power and power is character - Pengetahuan adalah kekuatan dan kekuatan adalah karakter',
   links: [
     {
-      href: 'https://fzzzn.my.id',
-      title: 'Personal Website',
-      image: 'https://fzzzn.my.id/content/images/2024/02/Rizky-Fauzan-Hanif-square-photoaidcom-cropped-1.jpg',
+      href: 'https://twb.nz/mplsstembayo2024',
+      title: 'Twibbon Peserta MPLS',
+      image: '',
     },
     {
-      href: 'https://status.zxn.my.id',
-      title: 'Status Page',
-      image: 'uptime-kuma.svg'
+      href: 'https://twb.nz/panitia-mplsstembayo2024',
+      title: 'Twibbon Panitia MPLS',
+      image: ''
     },
     {
-      href: 'https://grafana.zxn.my.id',
-      title: 'Monitoring',
-      image: 'grafana.svg'
+      href: 'https://drive.google.com/drive/folders/1edhmGSxLYLM6V7OlLbhJRWcGaewWkoTC',
+      title: 'File PNG Twibbon MPLS',
+      image: ''
+    },
+    {
+      href: 'https://humtik.my.id',
+      title: 'Dokumentasi MPLS 2024 (Coming Soon)',
+      image: ''
     },
   ],
   socials: [
     {
-      href: 'mailto:fauzan@zxn.my.id',
-      title: 'email',
-    },
-    {
-      href: 'https://twitter.com/nuggetgeprek_',
-      title: 'twitter',
-    },
-    {
-      href: 'https://instagram.com/eenthlh',
+      href: 'https://instagram.com/humtik.stembayo',
       title: 'instagram',
-    },
-    {
-      href: 'https://github.com/fzzzn',
-      title: 'github',
-    },
-    {
-      href: 'https://linkedin.com/in/rizky-fauzan-hanif',
-      title: 'linkedin',
     },
   ],
 };
