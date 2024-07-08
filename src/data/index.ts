@@ -25,6 +25,11 @@ const data: Data = {
       title: 'Dokumentasi MPLS 2024 (Coming Soon)',
       image: ''
     },
+    {
+      href: 'https://drive.google.com/file/d/1lQxfwDGgUSPNjC1kBa2I8UDKVor9_i3W/view?usp=drivesdk',
+      title: 'Buku Panduan MPLS 2024',
+      image: ''
+    },
   ],
   socials: [
     {
