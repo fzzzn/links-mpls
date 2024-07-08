@@ -26,7 +26,7 @@ const data: Data = {
       image: ''
     },
     {
-      href: 'https://drive.google.com/file/d/1lQxfwDGgUSPNjC1kBa2I8UDKVor9_i3W/view?usp=drivesdk',
+      href: 'https://drive.google.com/drive/folders/1edhmGSxLYLM6V7OlLbhJRWcGaewWkoTC',
       title: 'Buku Panduan MPLS 2024',
       image: ''
     },
