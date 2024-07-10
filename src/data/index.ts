@@ -11,6 +11,11 @@ const data: Data = {
       image: ''
     },
     {
+      href: 'https://humtik.my.id/wp-content/uploads/2024/07/Co-Card-Peserta-MPLS-2024.png',
+      title: 'Co Card Pesserta MPLS 2024',
+      image: ''
+    },
+    {
       href: 'https://twb.nz/mplsstembayo2024',
       title: 'Twibbon Peserta MPLS 2024',
       image: '',
