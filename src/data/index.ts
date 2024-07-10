@@ -16,7 +16,7 @@ const data: Data = {
       image: '',
     },
     {
-      href: 'https://twb.nz/panitia-mplsstembayo2024',
+      href: 'https://twibbon-stembayo.vercel.app/',
       title: 'Twibbon Peserta MPLS 2024 (Tanpa Watermark)',
       image: ''
     },
