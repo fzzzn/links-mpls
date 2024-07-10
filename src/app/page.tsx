@@ -18,8 +18,8 @@ export default function Home() {
           height={100}
         />
       </a>
-      <h1 className='font-bold mt-2 text-2xl text-white'>{data.name}</h1>
-      <p className='mt-1 mb-8 text-white'>{data.description}</p>
+      <h1 className='font-bold mt-2 text-2xl t text-center text-white'>{data.name}</h1>
+      <p className='mt-1 mb-8 text-center text-white'>{data.description}</p>
       {data.links.map((link) => (
         <LinkCard key={link.href} {...link} />
       ))}
@@ -28,7 +28,7 @@ export default function Home() {
           <LinkSocial key={social.href} {...social} />
         ))}
       </div>
-      <div className='flex justify-center my-8 text-white'>
+      <div className='flex justify-center my-8 text-center text-white'>
         <a href='https://humtik.my.id/' target='_blank'>
           © 2024 Humas TIK STEMBAYO
         </a>
