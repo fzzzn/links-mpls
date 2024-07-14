@@ -12,7 +12,7 @@ const data: Data = {
     },
     {
       href: 'https://humtik.my.id/wp-content/uploads/2024/07/Co-Card-Peserta-MPLS-2024.png',
-      title: 'Co Card Pesserta MPLS 2024',
+      title: 'Co Card Peserta MPLS 2024',
       image: ''
     },
     {
