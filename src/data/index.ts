@@ -26,8 +26,8 @@ const data: Data = {
       image: ''
     },
     {
-      href: 'https://humtik.my.id',
-      title: 'Dokumentasi MPLS 2024 (Coming Soon)',
+      href: 'https://nas.humtik.my.id/s/kCC3qwWxUFsN4Gl',
+      title: 'Dokumentasi MPLS 2024',
       image: ''
     },
   ],
